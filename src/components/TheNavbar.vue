@@ -33,7 +33,7 @@ export default {
 
 <style lang="sass" scoped>
 .navbar
-  background: $color-purple
+  background: $color-welcom
   color: $color-white
   display: flex
   justify-content: space-between
